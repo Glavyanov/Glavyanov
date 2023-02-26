@@ -2,8 +2,8 @@
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning SoftUni BG
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Glavyanov&layout=compact" align="right"/>
+
+![Glavyanov's github stats](https://github-readme-stats.vercel.app/api?username=Glavyanov&show_icons=true&hide=[%22issues%22])
+
 ![](https://komarev.com/ghpvc/?username=Glavyanov)
-<!---
-Glavyanov/Glavyanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
