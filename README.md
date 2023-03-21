@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Glavyanov
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning SoftUni BG
+- 🌱 I’m currently studying at SoftUni BG
 
 <hr>
 
