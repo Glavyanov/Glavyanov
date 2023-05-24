@@ -4,9 +4,9 @@
 
 <hr>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Glavyanov&layout=compact" align="right"/>
+<img src = "https://github-readme-stats-nine-henna-19.vercel.app/api/top-langs/?username=Glavyanov&layout=compact" align="right"/>
 
-![Glavyanov's github stats](https://github-readme-stats.vercel.app/api?username=Glavyanov&bg_color=90,3f5efb,46fc9e,fcf446,fcf446&title_color=fff&text_color=fff,)
+![Glavyanov's github stats](https://github-readme-stats-nine-henna-19.vercel.app/api?username=Glavyanov&bg_color=90,3f5efb,46fc9e,fcf446,fcf446&title_color=fff&text_color=fff,)
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Glavyanov&theme=react-dark&bg_color=3f5efb&hide_border=true" width="100%"/>
 
