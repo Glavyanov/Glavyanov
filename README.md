@@ -1,5 +1,9 @@
 ### 👋 Hi, I’m Glavyanov
-- 👀 I’m interested in C# and Vue.js
+
+💻 Passionate about &nbsp;&nbsp; ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+&nbsp;&nbsp; and &nbsp;&nbsp; ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  
+🚀 Exploring full-stack development and cloud technologies  
 
 <hr>
 <p align="center"><img  width="280" height="195" src = "https://github-readme-stats-git-master-glavyanovs-projects.vercel.app/api/top-langs/?username=Glavyanov&layout=compact&bg_color=90,3f5efb,46fc9e,fcf446,fcf446&&title_color=d1d7e0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github-readme-stats-git-master-glavyanovs-projects.vercel.app/api?username=Glavyanov&bg_color=90,3f5efb,46fc9e,fcf446,fcf446&title_color=d1d7e0" /></p>
